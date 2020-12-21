@@ -1,0 +1,25 @@
+{
+  "name": "discord-emojili-kayit",
+  "version": "0.0.1",
+  "description": "DJSV12 Emojili Kayıt",
+  "main": "main.js",
+  "scripts": {
+    "start": "node phentos.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "quick.db": "^7.1.2",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Phentos",
+    "Rademon"
+  ]
+}
